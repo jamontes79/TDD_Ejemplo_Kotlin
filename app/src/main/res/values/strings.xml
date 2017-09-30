@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">TDD_Ejemplo_Kotlin</string>
+    <string name="app_name">TDD_Ejemplo</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_user_password">Usuario o contraseña incorrectos.</string>
+    <string name="error_max_login_attempt">Ha superado el número máximo de intentos</string>
+    <string name="login_ok">Login correcto.</string>
 </resources>
